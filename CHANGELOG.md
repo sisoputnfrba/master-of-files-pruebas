@@ -8,3 +8,4 @@ feat: agregados scripts de errores con file:tag
 feat: add FIFO scripts
 feat: add AGING scripts
 feat: add MEMORIA script
+fix: script memoria
