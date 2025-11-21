@@ -6,3 +6,4 @@ Todos los cambios relevantes en el repositorio se van a ir documentando en este 
 ## [1.0.0] - 2025-11-16
 feat: agregados scripts de errores con file:tag
 feat: add FIFO scripts
+feat: add AGING scripts
