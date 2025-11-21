@@ -9,3 +9,4 @@ feat: add FIFO scripts
 feat: add AGING scripts
 feat: add MEMORIA script
 fix: script memoria
+feat: add MEMORIA_2 script
