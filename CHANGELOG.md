@@ -7,3 +7,4 @@ Todos los cambios relevantes en el repositorio se van a ir documentando en este 
 feat: agregados scripts de errores con file:tag
 feat: add FIFO scripts
 feat: add AGING scripts
+feat: add MEMORIA script
