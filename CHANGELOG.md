@@ -12,3 +12,4 @@ fix: script memoria
 feat: add MEMORIA_2 script
 feat: add STORAGE scripts
 fix: add more deduplication
+feat: add missing STORAGE script
