@@ -14,3 +14,4 @@ feat: add STORAGE scripts
 fix: add more deduplication
 feat: add missing STORAGE script
 fix: error en TAG_EXISTENTE
+fix: correcciones sobre tags
